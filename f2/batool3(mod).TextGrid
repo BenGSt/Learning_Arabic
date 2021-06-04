@@ -1,0 +1,2458 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1274.9496598639455 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "1" 
+        xmin = 0 
+        xmax = 1274.9496598639455 
+        intervals: size = 611 
+        intervals [1]:
+            xmin = 0 
+            xmax = 585.7229943058155 
+            text = "xxx" 
+        intervals [2]:
+            xmin = 585.7229943058155 
+            xmax = 587.6128672533549 
+            text = "kithaak" 
+        intervals [3]:
+            xmin = 587.6128672533549 
+            xmax = 587.7554991739239 
+            text = "xxx" 
+        intervals [4]:
+            xmin = 587.7554991739239 
+            xmax = 589.6275431313921 
+            text = "kasiik" 
+        intervals [5]:
+            xmin = 589.6275431313921 
+            xmax = 595.9390056165709 
+            text = "xxx" 
+        intervals [6]:
+            xmin = 595.9390056165709 
+            xmax = 597.7753915938968 
+            text = "katak" 
+        intervals [7]:
+            xmin = 597.7753915938968 
+            xmax = 597.9163387330001 
+            text = "xxx" 
+        intervals [8]:
+            xmin = 597.9163387330001 
+            xmax = 599.7705537003973 
+            text = "daabat" 
+        intervals [9]:
+            xmin = 599.7705537003973 
+            xmax = 599.9221001160018 
+            text = "xxx" 
+        intervals [10]:
+            xmin = 599.9221001160018 
+            xmax = 601.7228281131855 
+            text = "diibat" 
+        intervals [11]:
+            xmin = 601.7228281131855 
+            xmax = 601.8832890238257 
+            text = "xxx" 
+        intervals [12]:
+            xmin = 601.8832890238257 
+            xmax = 603.6840170210095 
+            text = "duubat" 
+        intervals [13]:
+            xmin = 603.6840170210095 
+            xmax = 603.8623069217207 
+            text = "xxx" 
+        intervals [14]:
+            xmin = 603.8623069217207 
+            xmax = 605.5738899685489 
+            text = "tabas3" 
+        intervals [15]:
+            xmin = 605.5738899685489 
+            xmax = 605.7343508791889 
+            text = "xxx" 
+        intervals [16]:
+            xmin = 605.7343508791889 
+            xmax = 607.428104935946 
+            text = "tabis3" 
+        intervals [17]:
+            xmin = 607.428104935946 
+            xmax = 607.6242238267283 
+            text = "xxx" 
+        intervals [18]:
+            xmin = 607.6242238267283 
+            xmax = 609.3179778834854 
+            text = "tabus3" 
+        intervals [19]:
+            xmin = 609.3179778834854 
+            xmax = 609.54975475441 
+            text = "xxx" 
+        intervals [20]:
+            xmin = 609.54975475441 
+            xmax = 611.4039697218071 
+            text = "tabaas3" 
+        intervals [21]:
+            xmin = 611.4039697218071 
+            xmax = 611.6156705898984 
+            text = "xxx" 
+        intervals [22]:
+            xmin = 611.6156705898984 
+            xmax = 613.4342275771533 
+            text = "tabiis3" 
+        intervals [23]:
+            xmin = 613.4342275771533 
+            xmax = 613.6303464679356 
+            text = "xxx" 
+        intervals [24]:
+            xmin = 613.6303464679356 
+            xmax = 615.5023904254039 
+            text = "tabuus3" 
+        intervals [25]:
+            xmin = 615.5023904254039 
+            xmax = 615.5915353757596 
+            text = "xxx" 
+        intervals [26]:
+            xmin = 615.5915353757596 
+            xmax = 617.356605392801 
+            text = "tabath3" 
+        intervals [27]:
+            xmin = 617.356605392801 
+            xmax = 617.5705532736545 
+            text = "xxx" 
+        intervals [28]:
+            xmin = 617.5705532736545 
+            xmax = 619.2999653105537 
+            text = "tabith3" 
+        intervals [29]:
+            xmin = 619.2999653105537 
+            xmax = 620.2270727942523 
+            text = "xxx" 
+        intervals [30]:
+            xmin = 620.2270727942523 
+            xmax = 622.0099718013649 
+            text = "tabuth3" 
+        intervals [31]:
+            xmin = 622.0099718013649 
+            xmax = 622.0634587715783 
+            text = "xxx" 
+        intervals [32]:
+            xmin = 622.0634587715783 
+            xmax = 623.864186768762 
+            text = "tabaath3" 
+        intervals [33]:
+            xmin = 623.864186768762 
+            xmax = 624.0246476794022 
+            text = "xxx" 
+        intervals [34]:
+            xmin = 624.0246476794022 
+            xmax = 625.843204666657 
+            text = "tabiith3" 
+        intervals [35]:
+            xmin = 625.843204666657 
+            xmax = 626.0393235574395 
+            text = "xxx" 
+        intervals [36]:
+            xmin = 626.0393235574395 
+            xmax = 627.7865645844098 
+            text = "tabuuth3" 
+        intervals [37]:
+            xmin = 627.7865645844098 
+            xmax = 628.0361704454056 
+            text = "xxx" 
+        intervals [38]:
+            xmin = 628.0361704454056 
+            xmax = 629.7299245021626 
+            text = "tabat3" 
+        intervals [39]:
+            xmin = 629.7299245021626 
+            xmax = 629.8988609609432 
+            text = "xxx" 
+        intervals [40]:
+            xmin = 629.8988609609432 
+            xmax = 631.6104440077713 
+            text = "tabit3" 
+        intervals [41]:
+            xmin = 631.6104440077713 
+            xmax = 631.7709049184115 
+            text = "xxx" 
+        intervals [42]:
+            xmin = 631.7709049184115 
+            xmax = 633.5359749354529 
+            text = "s3aabatak" 
+        intervals [43]:
+            xmin = 633.5359749354529 
+            xmax = 633.7320938262353 
+            text = "xxx" 
+        intervals [44]:
+            xmin = 633.7320938262353 
+            xmax = 635.5863087936324 
+            text = "tabaad" 
+        intervals [45]:
+            xmin = 635.5863087936324 
+            xmax = 635.7467697042725 
+            text = "xxx" 
+        intervals [46]:
+            xmin = 635.7467697042725 
+            xmax = 637.4583527511007 
+            text = "tabuuth" 
+        intervals [47]:
+            xmin = 637.4583527511007 
+            xmax = 637.6723006319542 
+            text = "xxx" 
+        intervals [48]:
+            xmin = 637.6723006319542 
+            xmax = 639.4195416589246 
+            text = "tabaath" 
+        intervals [49]:
+            xmin = 639.4195416589246 
+            xmax = 639.6869765099915 
+            text = "xxx" 
+        intervals [50]:
+            xmin = 639.6869765099915 
+            xmax = 641.469875517104 
+            text = "tabiith" 
+        intervals [51]:
+            xmin = 641.469875517104 
+            xmax = 641.6659944078865 
+            text = "xxx" 
+        intervals [52]:
+            xmin = 641.6659944078865 
+            xmax = 643.8411311965639 
+            text = "s3ubatak" 
+        intervals [53]:
+            xmin = 643.8411311965639 
+            xmax = 651.1167276270809 
+            text = "xxx" 
+        intervals [54]:
+            xmin = 651.1167276270809 
+            xmax = 652.9352846143357 
+            text = "tabuuth" 
+        intervals [55]:
+            xmin = 652.9352846143357 
+            xmax = 653.1670614852603 
+            text = "xxx" 
+        intervals [56]:
+            xmin = 653.1670614852603 
+            xmax = 654.8251575618751 
+            text = "sab" 
+        intervals [57]:
+            xmin = 654.8251575618751 
+            xmax = 655.0034474625863 
+            text = "xxx" 
+        intervals [58]:
+            xmin = 655.0034474625863 
+            xmax = 656.8220044498412 
+            text = "thaabat" 
+        intervals [59]:
+            xmin = 656.8220044498412 
+            xmax = 656.9468073803391 
+            text = "xxx" 
+        intervals [60]:
+            xmin = 656.9468073803391 
+            xmax = 658.8545093179496 
+            text = "tabaad3" 
+        intervals [61]:
+            xmin = 658.8545093179496 
+            xmax = 658.9971412385186 
+            text = "xxx" 
+        intervals [62]:
+            xmin = 658.9971412385186 
+            xmax = 660.7265532754178 
+            text = "tabat" 
+        intervals [63]:
+            xmin = 660.7265532754178 
+            xmax = 660.8513562059157 
+            text = "xxx" 
+        intervals [64]:
+            xmin = 660.8513562059157 
+            xmax = 662.6164262229572 
+            text = "tabit" 
+        intervals [65]:
+            xmin = 662.6164262229572 
+            xmax = 666.681435959174 
+            text = "xxx" 
+        intervals [66]:
+            xmin = 666.681435959174 
+            xmax = 668.4108479960732 
+            text = "tabut" 
+        intervals [67]:
+            xmin = 668.4108479960732 
+            xmax = 668.6201804794248 
+            text = "xxx" 
+        intervals [68]:
+            xmin = 668.6201804794248 
+            xmax = 670.492224436893 
+            text = "tabaat" 
+        intervals [69]:
+            xmin = 670.492224436893 
+            xmax = 670.6526853475332 
+            text = "xxx" 
+        intervals [70]:
+            xmin = 670.6526853475332 
+            xmax = 672.3999263745036 
+            text = "tabiit" 
+        intervals [71]:
+            xmin = 672.3999263745036 
+            xmax = 672.6138742553571 
+            text = "xxx" 
+        intervals [72]:
+            xmin = 672.6138742553571 
+            xmax = 674.4680892227542 
+            text = "tabuut" 
+        intervals [73]:
+            xmin = 674.4680892227542 
+            xmax = 674.6107211433232 
+            text = "xxx" 
+        intervals [74]:
+            xmin = 674.6107211433232 
+            xmax = 676.3757911603647 
+            text = "tabad" 
+        intervals [75]:
+            xmin = 676.3757911603647 
+            xmax = 676.554081061076 
+            text = "xxx" 
+        intervals [76]:
+            xmin = 676.554081061076 
+            xmax = 678.3369800681886 
+            text = "kithiik" 
+        intervals [77]:
+            xmin = 678.3369800681886 
+            xmax = 679.0857976511759 
+            text = "xxx" 
+        intervals [78]:
+            xmin = 679.0857976511759 
+            xmax = 680.8508676682173 
+            text = "kasaak" 
+        intervals [79]:
+            xmin = 680.8508676682173 
+            xmax = 680.940012618573 
+            text = "xxx" 
+        intervals [80]:
+            xmin = 680.940012618573 
+            xmax = 682.5981086951878 
+            text = "tabid" 
+        intervals [81]:
+            xmin = 682.5981086951878 
+            xmax = 682.7942275859701 
+            text = "xxx" 
+        intervals [82]:
+            xmin = 682.7942275859701 
+            xmax = 684.5771265930828 
+            text = "tabud" 
+        intervals [83]:
+            xmin = 684.5771265930828 
+            xmax = 684.8089034640074 
+            text = "xxx" 
+        intervals [84]:
+            xmin = 684.8089034640074 
+            xmax = 686.5561444909778 
+            text = "s3abatak" 
+        intervals [85]:
+            xmin = 686.5561444909778 
+            xmax = 686.727449971973 
+            text = "xxx" 
+        intervals [86]:
+            xmin = 686.727449971973 
+            xmax = 688.4925199890145 
+            text = "s3ibatak" 
+        intervals [87]:
+            xmin = 688.4925199890145 
+            xmax = 688.6886388797968 
+            text = "xxx" 
+        intervals [88]:
+            xmin = 688.6886388797968 
+            xmax = 690.4715378869095 
+            text = "tabiid" 
+        intervals [89]:
+            xmin = 690.4715378869095 
+            xmax = 690.6676567776918 
+            text = "xxx" 
+        intervals [90]:
+            xmin = 690.6676567776918 
+            xmax = 692.4862137649468 
+            text = "tabuud" 
+        intervals [91]:
+            xmin = 692.4862137649468 
+            xmax = 692.6466746755868 
+            text = "xxx" 
+        intervals [92]:
+            xmin = 692.6466746755868 
+            xmax = 694.5187186330551 
+            text = "s3iibatak" 
+        intervals [93]:
+            xmin = 694.5187186330551 
+            xmax = 694.7504955039798 
+            text = "xxx" 
+        intervals [94]:
+            xmin = 694.7504955039798 
+            xmax = 696.5868814813058 
+            text = "s3uubatak" 
+        intervals [95]:
+            xmin = 696.5868814813058 
+            xmax = 696.765171382017 
+            text = "xxx" 
+        intervals [96]:
+            xmin = 696.765171382017 
+            xmax = 698.5302413990585 
+            text = "th3abatak" 
+        intervals [97]:
+            xmin = 698.5302413990585 
+            xmax = 698.7085312997698 
+            text = "xxx" 
+        intervals [98]:
+            xmin = 698.7085312997698 
+            xmax = 700.5270882870246 
+            text = "th3ibatak" 
+        intervals [99]:
+            xmin = 700.5270882870246 
+            xmax = 700.6697202075936 
+            text = "xxx" 
+        intervals [100]:
+            xmin = 700.6697202075936 
+            xmax = 702.5417641650619 
+            text = "th3ubatak" 
+        intervals [101]:
+            xmin = 702.5417641650619 
+            xmax = 709.4227537917997 
+            text = "xxx" 
+        intervals [102]:
+            xmin = 709.4227537917997 
+            xmax = 711.1878238088411 
+            text = "th3aabatak" 
+        intervals [103]:
+            xmin = 711.1878238088411 
+            xmax = 711.4017716896947 
+            text = "xxx" 
+        intervals [104]:
+            xmin = 711.4017716896947 
+            xmax = 713.0598677663094 
+            text = "istabar" 
+        intervals [105]:
+            xmin = 713.0598677663094 
+            xmax = 713.3094736273051 
+            text = "xxx" 
+        intervals [106]:
+            xmin = 713.3094736273051 
+            xmax = 715.0923726344178 
+            text = "th3iibatak" 
+        intervals [107]:
+            xmin = 715.0923726344178 
+            xmax = 715.270662535129 
+            text = "xxx" 
+        intervals [108]:
+            xmin = 715.270662535129 
+            xmax = 716.964416591886 
+            text = "is3t3abar" 
+        intervals [109]:
+            xmin = 716.964416591886 
+            xmax = 717.107048512455 
+            text = "xxx" 
+        intervals [110]:
+            xmin = 717.107048512455 
+            xmax = 718.943434489781 
+            text = "th3uubatak" 
+        intervals [111]:
+            xmin = 718.943434489781 
+            xmax = 719.08606641035 
+            text = "xxx" 
+        intervals [112]:
+            xmin = 719.08606641035 
+            xmax = 720.7976494571782 
+            text = "t3abatak" 
+        intervals [113]:
+            xmin = 720.7976494571782 
+            xmax = 721.0115973380316 
+            text = "xxx" 
+        intervals [114]:
+            xmin = 721.0115973380316 
+            xmax = 722.758838365002 
+            text = "is3t3afa" 
+        intervals [115]:
+            xmin = 722.758838365002 
+            xmax = 722.901470285571 
+            text = "xxx" 
+        intervals [116]:
+            xmin = 722.901470285571 
+            xmax = 724.8270012132526 
+            text = "bat3t3aar" 
+        intervals [117]:
+            xmin = 724.8270012132526 
+            xmax = 725.1300940444618 
+            text = "xxx" 
+        intervals [118]:
+            xmin = 725.1300940444618 
+            xmax = 726.9129930515744 
+            text = "iddalaalih" 
+        intervals [119]:
+            xmin = 726.9129930515744 
+            xmax = 727.6191675972284 
+            text = "xxx" 
+        intervals [120]:
+            xmin = 727.6191675972284 
+            xmax = 729.3842376142699 
+            text = "t3ibatak" 
+        intervals [121]:
+            xmin = 729.3842376142699 
+            xmax = 729.4377245844832 
+            text = "xxx" 
+        intervals [122]:
+            xmin = 729.4377245844832 
+            xmax = 731.3097685419515 
+            text = "t3ubatak" 
+        intervals [123]:
+            xmin = 731.3097685419515 
+            xmax = 731.4880584426628 
+            text = "xxx" 
+        intervals [124]:
+            xmin = 731.4880584426628 
+            xmax = 733.360102400131 
+            text = "id3d3alaalih" 
+        intervals [125]:
+            xmin = 733.360102400131 
+            xmax = 733.7523401816958 
+            text = "xxx" 
+        intervals [126]:
+            xmin = 733.7523401816958 
+            xmax = 735.5708971689506 
+            text = "t3uubatak" 
+        intervals [127]:
+            xmin = 735.5708971689506 
+            xmax = 735.7313580795908 
+            text = "xxx" 
+        intervals [128]:
+            xmin = 735.7313580795908 
+            xmax = 737.5142570867034 
+            text = "d3abatak" 
+        intervals [129]:
+            xmin = 737.5142570867034 
+            xmax = 737.728204967557 
+            text = "xxx" 
+        intervals [130]:
+            xmin = 737.728204967557 
+            xmax = 739.5645909448829 
+            text = "d3ibatak" 
+        intervals [131]:
+            xmin = 739.5645909448829 
+            xmax = 739.707222865452 
+            text = "xxx" 
+        intervals [132]:
+            xmin = 739.707222865452 
+            xmax = 741.4544638924223 
+            text = "d3ubatak" 
+        intervals [133]:
+            xmin = 741.4544638924223 
+            xmax = 741.6149248030624 
+            text = "xxx" 
+        intervals [134]:
+            xmin = 741.6149248030624 
+            xmax = 743.4156528002461 
+            text = "d3aabatak" 
+        intervals [135]:
+            xmin = 743.4156528002461 
+            xmax = 743.5761137108863 
+            text = "xxx" 
+        intervals [136]:
+            xmin = 743.5761137108863 
+            xmax = 745.4481576683545 
+            text = "d3iibatak" 
+        intervals [137]:
+            xmin = 745.4481576683545 
+            xmax = 745.6040031814929 
+            text = "xxx" 
+        intervals [138]:
+            xmin = 745.6040031814929 
+            xmax = 747.4938761290323 
+            text = "t3aabatak" 
+        intervals [139]:
+            xmin = 747.4938761290323 
+            xmax = 747.600850069459 
+            text = "xxx" 
+        intervals [140]:
+            xmin = 747.600850069459 
+            xmax = 749.5263809971407 
+            text = "battaar" 
+        intervals [141]:
+            xmin = 749.5263809971407 
+            xmax = 749.5620389772829 
+            text = "xxx" 
+        intervals [142]:
+            xmin = 749.5620389772829 
+            xmax = 751.5588858652491 
+            text = "t3iibatak" 
+        intervals [143]:
+            xmin = 751.5588858652491 
+            xmax = 751.7193467758892 
+            text = "xxx" 
+        intervals [144]:
+            xmin = 751.7193467758892 
+            xmax = 753.5735617432863 
+            text = "sabatak" 
+        intervals [145]:
+            xmin = 753.5735617432863 
+            xmax = 753.7696806340687 
+            text = "xxx" 
+        intervals [146]:
+            xmin = 753.7696806340687 
+            xmax = 755.5347506511101 
+            text = "katak" 
+        intervals [147]:
+            xmin = 755.5347506511101 
+            xmax = 755.7308695418925 
+            text = "xxx" 
+        intervals [148]:
+            xmin = 755.7308695418925 
+            xmax = 757.7098874397875 
+            text = "kataak" 
+        intervals [149]:
+            xmin = 757.7098874397875 
+            xmax = 764.7406154162627 
+            text = "xxx" 
+        intervals [150]:
+            xmin = 764.7406154162627 
+            xmax = 766.6483173538733 
+            text = "sibatak" 
+        intervals [151]:
+            xmin = 766.6483173538733 
+            xmax = 766.7909492744423 
+            text = "xxx" 
+        intervals [152]:
+            xmin = 766.7909492744423 
+            xmax = 768.6273352517683 
+            text = "subatak" 
+        intervals [153]:
+            xmin = 768.6273352517683 
+            xmax = 768.7877961624083 
+            text = "xxx" 
+        intervals [154]:
+            xmin = 768.7877961624083 
+            xmax = 770.6598401198767 
+            text = "saabatak" 
+        intervals [155]:
+            xmin = 770.6598401198767 
+            xmax = 770.8381300205879 
+            text = "xxx" 
+        intervals [156]:
+            xmin = 770.8381300205879 
+            xmax = 772.7101739780561 
+            text = "siibatak" 
+        intervals [157]:
+            xmin = 772.7101739780561 
+            xmax = 772.834976908554 
+            text = "xxx" 
+        intervals [158]:
+            xmin = 772.834976908554 
+            xmax = 774.6891918759511 
+            text = "suubatak" 
+        intervals [159]:
+            xmin = 774.6891918759511 
+            xmax = 774.8318237965201 
+            text = "xxx" 
+        intervals [160]:
+            xmin = 774.8318237965201 
+            xmax = 776.5968938135617 
+            text = "thabatak" 
+        intervals [161]:
+            xmin = 776.5968938135617 
+            xmax = 776.7751837142729 
+            text = "xxx" 
+        intervals [162]:
+            xmin = 776.7751837142729 
+            xmax = 778.7007146419545 
+            text = "thibatak" 
+        intervals [163]:
+            xmin = 778.7007146419545 
+            xmax = 778.7898595923101 
+            text = "xxx" 
+        intervals [164]:
+            xmin = 778.7898595923101 
+            xmax = 780.6619035497783 
+            text = "thubatak" 
+        intervals [165]:
+            xmin = 780.6619035497783 
+            xmax = 780.7688774902051 
+            text = "xxx" 
+        intervals [166]:
+            xmin = 780.7688774902051 
+            xmax = 782.6587504377445 
+            text = "thaabatak" 
+        intervals [167]:
+            xmin = 782.6587504377445 
+            xmax = 782.7741999263118 
+            text = "xxx" 
+        intervals [168]:
+            xmin = 782.7741999263118 
+            xmax = 784.64624388378 
+            text = "thiibatak" 
+        intervals [169]:
+            xmin = 784.64624388378 
+            xmax = 784.771046814278 
+            text = "xxx" 
+        intervals [170]:
+            xmin = 784.771046814278 
+            xmax = 786.6787487518884 
+            text = "thuubatak" 
+        intervals [171]:
+            xmin = 786.6787487518884 
+            xmax = 786.8392096625286 
+            text = "xxx" 
+        intervals [172]:
+            xmin = 786.8392096625286 
+            xmax = 788.6577666497834 
+            text = "dabatak" 
+        intervals [173]:
+            xmin = 788.6577666497834 
+            xmax = 788.9965174611348 
+            text = "xxx" 
+        intervals [174]:
+            xmin = 788.9965174611348 
+            xmax = 790.7972454583186 
+            text = "kaath3ak" 
+        intervals [175]:
+            xmin = 790.7972454583186 
+            xmax = 790.9220483888164 
+            text = "xxx" 
+        intervals [176]:
+            xmin = 790.9220483888164 
+            xmax = 792.7227763860002 
+            text = "kaath3ik" 
+        intervals [177]:
+            xmin = 792.7227763860002 
+            xmax = 792.9010662867114 
+            text = "xxx" 
+        intervals [178]:
+            xmin = 792.9010662867114 
+            xmax = 794.7196232739662 
+            text = "kaath3aak" 
+        intervals [179]:
+            xmin = 794.7196232739662 
+            xmax = 794.8444262044642 
+            text = "xxx" 
+        intervals [180]:
+            xmin = 794.8444262044642 
+            xmax = 796.6808121817902 
+            text = "dibatak" 
+        intervals [181]:
+            xmin = 796.6808121817902 
+            xmax = 796.8769310725726 
+            text = "xxx" 
+        intervals [182]:
+            xmin = 796.8769310725726 
+            xmax = 798.6241720995429 
+            text = "dubatak" 
+        intervals [183]:
+            xmin = 798.6241720995429 
+            xmax = 798.8202909903254 
+            text = "xxx" 
+        intervals [184]:
+            xmin = 798.8202909903254 
+            xmax = 800.7279929279358 
+            text = "daabatak" 
+        intervals [185]:
+            xmin = 800.7279929279358 
+            xmax = 801.5566013818734 
+            text = "xxx" 
+        intervals [186]:
+            xmin = 801.5566013818734 
+            xmax = 803.4286453393416 
+            text = "tabut3" 
+        intervals [187]:
+            xmin = 803.4286453393416 
+            xmax = 803.5712772599107 
+            text = "xxx" 
+        intervals [188]:
+            xmin = 803.5712772599107 
+            xmax = 805.3720052570944 
+            text = "tabaat3" 
+        intervals [189]:
+            xmin = 805.3720052570944 
+            xmax = 805.5681241478768 
+            text = "xxx" 
+        intervals [190]:
+            xmin = 805.5681241478768 
+            xmax = 807.297536184776 
+            text = "katabit3" 
+        intervals [191]:
+            xmin = 807.297536184776 
+            xmax = 807.4758260854874 
+            text = "xxx" 
+        intervals [192]:
+            xmin = 807.4758260854874 
+            xmax = 809.2408961025288 
+            text = "katabut3" 
+        intervals [193]:
+            xmin = 809.2408961025288 
+            xmax = 809.3835280230978 
+            text = "xxx" 
+        intervals [194]:
+            xmin = 809.3835280230978 
+            xmax = 811.2199140004238 
+            text = "katabaat3" 
+        intervals [195]:
+            xmin = 811.2199140004238 
+            xmax = 811.3625459209928 
+            text = "xxx" 
+        intervals [196]:
+            xmin = 811.3625459209928 
+            xmax = 813.2702478586033 
+            text = "katabiit3" 
+        intervals [197]:
+            xmin = 813.2702478586033 
+            xmax = 818.8995933235774 
+            text = "xxx" 
+        intervals [198]:
+            xmin = 818.8995933235774 
+            xmax = 820.807295261188 
+            text = "katabuut3" 
+        intervals [199]:
+            xmin = 820.807295261188 
+            xmax = 820.9320981916858 
+            text = "xxx" 
+        intervals [200]:
+            xmin = 820.9320981916858 
+            xmax = 822.7328261888696 
+            text = "katabad3" 
+        intervals [201]:
+            xmin = 822.7328261888696 
+            xmax = 822.8754581094386 
+            text = "xxx" 
+        intervals [202]:
+            xmin = 822.8754581094386 
+            xmax = 824.7118440867646 
+            text = "katabid3" 
+        intervals [203]:
+            xmin = 824.7118440867646 
+            xmax = 824.783160047049 
+            text = "xxx" 
+        intervals [204]:
+            xmin = 824.783160047049 
+            xmax = 826.619546024375 
+            text = "katabud3" 
+        intervals [205]:
+            xmin = 826.619546024375 
+            xmax = 826.7978359250864 
+            text = "xxx" 
+        intervals [206]:
+            xmin = 826.7978359250864 
+            xmax = 828.6877088726256 
+            text = "katabiid3" 
+        intervals [207]:
+            xmin = 828.6877088726256 
+            xmax = 828.883827763408 
+            text = "xxx" 
+        intervals [208]:
+            xmin = 828.883827763408 
+            xmax = 830.5954108102362 
+            text = "s3ashib" 
+        intervals [209]:
+            xmin = 830.5954108102362 
+            xmax = 830.7737007109474 
+            text = "xxx" 
+        intervals [210]:
+            xmin = 830.7737007109474 
+            xmax = 832.5387707279889 
+            text = "s3achib" 
+        intervals [211]:
+            xmin = 832.5387707279889 
+            xmax = 832.7348896187713 
+            text = "xxx" 
+        intervals [212]:
+            xmin = 832.7348896187713 
+            xmax = 834.4643016556705 
+            text = "s3ayib" 
+        intervals [213]:
+            xmin = 834.4643016556705 
+            xmax = 834.6069335762396 
+            text = "xxx" 
+        intervals [214]:
+            xmin = 834.6069335762396 
+            xmax = 836.2650296528543 
+            text = "s3awib" 
+        intervals [215]:
+            xmin = 836.2650296528543 
+            xmax = 836.4789775337078 
+            text = "xxx" 
+        intervals [216]:
+            xmin = 836.4789775337078 
+            xmax = 838.1906832274627 
+            text = "s3ajib" 
+        intervals [217]:
+            xmin = 838.1906832274627 
+            xmax = 838.3392983895562 
+            text = "xxx" 
+        intervals [218]:
+            xmin = 838.3392983895562 
+            xmax = 840.0330524463133 
+            text = "biyas3" 
+        intervals [219]:
+            xmin = 840.0330524463133 
+            xmax = 840.2113423470245 
+            text = "xxx" 
+        intervals [220]:
+            xmin = 840.2113423470245 
+            xmax = 842.1012152945639 
+            text = "katabaad3" 
+        intervals [221]:
+            xmin = 842.1012152945639 
+            xmax = 842.3864791357018 
+            text = "xxx" 
+        intervals [222]:
+            xmin = 842.3864791357018 
+            xmax = 844.0267462222455 
+            text = "biwas3" 
+        intervals [223]:
+            xmin = 844.0267462222455 
+            xmax = 844.2228651130279 
+            text = "xxx" 
+        intervals [224]:
+            xmin = 844.2228651130279 
+            xmax = 845.9522771499271 
+            text = "bishas3" 
+        intervals [225]:
+            xmin = 845.9522771499271 
+            xmax = 846.1305670506384 
+            text = "xxx" 
+        intervals [226]:
+            xmin = 846.1305670506384 
+            xmax = 847.9491240378933 
+            text = "bichas3" 
+        intervals [227]:
+            xmin = 847.9491240378933 
+            xmax = 848.1274139386045 
+            text = "xxx" 
+        intervals [228]:
+            xmin = 848.1274139386045 
+            xmax = 849.8389969854327 
+            text = "bijas3" 
+        intervals [229]:
+            xmin = 849.8389969854327 
+            xmax = 850.0529448662861 
+            text = "xxx" 
+        intervals [230]:
+            xmin = 850.0529448662861 
+            xmax = 851.6753829627586 
+            text = "tayib" 
+        intervals [231]:
+            xmin = 851.6753829627586 
+            xmax = 851.8893308436121 
+            text = "xxx" 
+        intervals [232]:
+            xmin = 851.8893308436121 
+            xmax = 853.5295979301558 
+            text = "tawib" 
+        intervals [233]:
+            xmin = 853.5295979301558 
+            xmax = 853.6722298507248 
+            text = "xxx" 
+        intervals [234]:
+            xmin = 853.6722298507248 
+            xmax = 855.4194708776952 
+            text = "tashib" 
+        intervals [235]:
+            xmin = 855.4194708776952 
+            xmax = 855.6155897684775 
+            text = "xxx" 
+        intervals [236]:
+            xmin = 855.6155897684775 
+            xmax = 857.3628307954478 
+            text = "tachib" 
+        intervals [237]:
+            xmin = 857.3628307954478 
+            xmax = 857.5139382641576 
+            text = "xxx" 
+        intervals [238]:
+            xmin = 857.5139382641576 
+            xmax = 859.3503242414835 
+            text = "katabuud3" 
+        intervals [239]:
+            xmin = 859.3503242414835 
+            xmax = 859.4751271719814 
+            text = "xxx" 
+        intervals [240]:
+            xmin = 859.4751271719814 
+            xmax = 861.2401971890229 
+            text = "katabas" 
+        intervals [241]:
+            xmin = 861.2401971890229 
+            xmax = 861.4363160798052 
+            text = "xxx" 
+        intervals [242]:
+            xmin = 861.4363160798052 
+            xmax = 863.2548730670601 
+            text = "katabis" 
+        intervals [243]:
+            xmin = 863.2548730670601 
+            xmax = 863.3618470074869 
+            text = "xxx" 
+        intervals [244]:
+            xmin = 863.3618470074869 
+            xmax = 865.216061974884 
+            text = "katabiis" 
+        intervals [245]:
+            xmin = 865.216061974884 
+            xmax = 870.5469300061508 
+            text = "xxx" 
+        intervals [246]:
+            xmin = 870.5469300061508 
+            xmax = 872.2228550728366 
+            text = "tuub" 
+        intervals [247]:
+            xmin = 872.2228550728366 
+            xmax = 872.3476580033345 
+            text = "xxx" 
+        intervals [248]:
+            xmin = 872.3476580033345 
+            xmax = 874.0770700402337 
+            text = "kad3ak" 
+        intervals [249]:
+            xmin = 874.0770700402337 
+            xmax = 874.1483860005183 
+            text = "xxx" 
+        intervals [250]:
+            xmin = 874.1483860005183 
+            xmax = 875.9134560175597 
+            text = "kad3ik" 
+        intervals [251]:
+            xmin = 875.9134560175597 
+            xmax = 876.0645634862692 
+            text = "xxx" 
+        intervals [252]:
+            xmin = 876.0645634862692 
+            xmax = 877.8118045132396 
+            text = "kad3aak" 
+        intervals [253]:
+            xmin = 877.8118045132396 
+            xmax = 877.9900944139508 
+            text = "xxx" 
+        intervals [254]:
+            xmin = 877.9900944139508 
+            xmax = 879.6303615004945 
+            text = "tiib" 
+        intervals [255]:
+            xmin = 879.6303615004945 
+            xmax = 879.7908224111346 
+            text = "xxx" 
+        intervals [256]:
+            xmin = 879.7908224111346 
+            xmax = 881.5024054579627 
+            text = "dab" 
+        intervals [257]:
+            xmin = 881.5024054579627 
+            xmax = 882.4116839515901 
+            text = "xxx" 
+        intervals [258]:
+            xmin = 882.4116839515901 
+            xmax = 884.0162930579914 
+            text = "dub" 
+        intervals [259]:
+            xmin = 884.0162930579914 
+            xmax = 884.2837279090584 
+            text = "xxx" 
+        intervals [260]:
+            xmin = 884.2837279090584 
+            xmax = 885.8705080253886 
+            text = "dib" 
+        intervals [261]:
+            xmin = 885.8705080253886 
+            xmax = 886.084455906242 
+            text = "xxx" 
+        intervals [262]:
+            xmin = 886.084455906242 
+            xmax = 887.6712360225723 
+            text = "daab" 
+        intervals [263]:
+            xmin = 887.6712360225723 
+            xmax = 887.8673549133547 
+            text = "xxx" 
+        intervals [264]:
+            xmin = 887.8673549133547 
+            xmax = 889.5432799800406 
+            text = "duub" 
+        intervals [265]:
+            xmin = 889.5432799800406 
+            xmax = 889.6680829105385 
+            text = "xxx" 
+        intervals [266]:
+            xmin = 889.6680829105385 
+            xmax = 891.4688109077222 
+            text = "diib" 
+        intervals [267]:
+            xmin = 891.4688109077222 
+            xmax = 891.5579558580779 
+            text = "xxx" 
+        intervals [268]:
+            xmin = 891.5579558580779 
+            xmax = 893.2517099148348 
+            text = "d3ab" 
+        intervals [269]:
+            xmin = 893.2517099148348 
+            xmax = 893.412170825475 
+            text = "xxx" 
+        intervals [270]:
+            xmin = 893.412170825475 
+            xmax = 895.105924882232 
+            text = "d3ub" 
+        intervals [271]:
+            xmin = 895.105924882232 
+            xmax = 895.2035453807282 
+            text = "xxx" 
+        intervals [272]:
+            xmin = 895.2035453807282 
+            xmax = 896.8972994374852 
+            text = "d3ib" 
+        intervals [273]:
+            xmin = 896.8972994374852 
+            xmax = 897.0399313580542 
+            text = "xxx" 
+        intervals [274]:
+            xmin = 897.0399313580542 
+            xmax = 898.6267114743844 
+            text = "d3aab" 
+        intervals [275]:
+            xmin = 898.6267114743844 
+            xmax = 898.7693433949535 
+            text = "xxx" 
+        intervals [276]:
+            xmin = 898.7693433949535 
+            xmax = 900.5165844219238 
+            text = "d3uub" 
+        intervals [277]:
+            xmin = 900.5165844219238 
+            xmax = 900.6235583623505 
+            text = "xxx" 
+        intervals [278]:
+            xmin = 900.6235583623505 
+            xmax = 902.3173124191076 
+            text = "thab" 
+        intervals [279]:
+            xmin = 902.3173124191076 
+            xmax = 902.4421153496054 
+            text = "xxx" 
+        intervals [280]:
+            xmin = 902.4421153496054 
+            xmax = 904.225014356718 
+            text = "thub" 
+        intervals [281]:
+            xmin = 904.225014356718 
+            xmax = 904.349817287216 
+            text = "xxx" 
+        intervals [282]:
+            xmin = 904.349817287216 
+            xmax = 906.1862032645419 
+            text = "d3iib" 
+        intervals [283]:
+            xmin = 906.1862032645419 
+            xmax = 906.2396902347552 
+            text = "xxx" 
+        intervals [284]:
+            xmin = 906.2396902347552 
+            xmax = 907.9512732815834 
+            text = "saaq" 
+        intervals [285]:
+            xmin = 907.9512732815834 
+            xmax = 908.0939052021524 
+            text = "xxx" 
+        intervals [286]:
+            xmin = 908.0939052021524 
+            xmax = 909.8768042092651 
+            text = "siiq" 
+        intervals [287]:
+            xmin = 909.8768042092651 
+            xmax = 909.9659491596207 
+            text = "xxx" 
+        intervals [288]:
+            xmin = 909.9659491596207 
+            xmax = 911.6062162461643 
+            text = "d3uubatak" 
+        intervals [289]:
+            xmin = 911.6062162461643 
+            xmax = 911.7488481667333 
+            text = "xxx" 
+        intervals [290]:
+            xmin = 911.7488481667333 
+            xmax = 913.4604312135614 
+            text = "suuq" 
+        intervals [291]:
+            xmin = 913.4604312135614 
+            xmax = 913.5449607664151 
+            text = "xxx" 
+        intervals [292]:
+            xmin = 913.5449607664151 
+            xmax = 915.2922017933855 
+            text = "thib" 
+        intervals [293]:
+            xmin = 915.2922017933855 
+            xmax = 921.2970786000221 
+            text = "xxx" 
+        intervals [294]:
+            xmin = 921.2970786000221 
+            xmax = 922.9908326567792 
+            text = "thaab" 
+        intervals [295]:
+            xmin = 922.9908326567792 
+            xmax = 923.1869515475615 
+            text = "xxx" 
+        intervals [296]:
+            xmin = 923.1869515475615 
+            xmax = 924.8807056043186 
+            text = "thuub" 
+        intervals [297]:
+            xmin = 924.8807056043186 
+            xmax = 924.9876795447453 
+            text = "xxx" 
+        intervals [298]:
+            xmin = 924.9876795447453 
+            xmax = 926.7170915816446 
+            text = "thiib" 
+        intervals [299]:
+            xmin = 926.7170915816446 
+            xmax = 926.8597235022136 
+            text = "xxx" 
+        intervals [300]:
+            xmin = 926.8597235022136 
+            xmax = 928.4999905887571 
+            text = "th3ab" 
+        intervals [301]:
+            xmin = 928.4999905887571 
+            xmax = 928.6961094795396 
+            text = "xxx" 
+        intervals [302]:
+            xmin = 928.6961094795396 
+            xmax = 930.3898635362965 
+            text = "th3ub" 
+        intervals [303]:
+            xmin = 930.3898635362965 
+            xmax = 930.5324954568655 
+            text = "xxx" 
+        intervals [304]:
+            xmin = 930.5324954568655 
+            xmax = 932.2975654739071 
+            text = "th3ib" 
+        intervals [305]:
+            xmin = 932.2975654739071 
+            xmax = 932.4580263845471 
+            text = "xxx" 
+        intervals [306]:
+            xmin = 932.4580263845471 
+            xmax = 934.1517804413041 
+            text = "th3aab" 
+        intervals [307]:
+            xmin = 934.1517804413041 
+            xmax = 934.2587543817309 
+            text = "xxx" 
+        intervals [308]:
+            xmin = 934.2587543817309 
+            xmax = 936.0594823789146 
+            text = "th3uub" 
+        intervals [309]:
+            xmin = 936.0594823789146 
+            xmax = 936.2199432895547 
+            text = "xxx" 
+        intervals [310]:
+            xmin = 936.2199432895547 
+            xmax = 937.8958683562406 
+            text = "th3iib" 
+        intervals [311]:
+            xmin = 937.8958683562406 
+            xmax = 938.0741582569519 
+            text = "xxx" 
+        intervals [312]:
+            xmin = 938.0741582569519 
+            xmax = 939.7322543335666 
+            text = "bas" 
+        intervals [313]:
+            xmin = 939.7322543335666 
+            xmax = 939.9190191449436 
+            text = "xxx" 
+        intervals [314]:
+            xmin = 939.9190191449436 
+            xmax = 941.6306021917717 
+            text = "bus" 
+        intervals [315]:
+            xmin = 941.6306021917717 
+            xmax = 941.7375761321985 
+            text = "xxx" 
+        intervals [316]:
+            xmin = 941.7375761321985 
+            xmax = 943.4491591790265 
+            text = "bis" 
+        intervals [317]:
+            xmin = 943.4491591790265 
+            xmax = 943.6452780698089 
+            text = "xxx" 
+        intervals [318]:
+            xmin = 943.6452780698089 
+            xmax = 945.3925190967793 
+            text = "kidak" 
+        intervals [319]:
+            xmin = 945.3925190967793 
+            xmax = 945.5529800074195 
+            text = "xxx" 
+        intervals [320]:
+            xmin = 945.5529800074195 
+            xmax = 947.2645630542476 
+            text = "kidik" 
+        intervals [321]:
+            xmin = 947.2645630542476 
+            xmax = 947.4606819450299 
+            text = "xxx" 
+        intervals [322]:
+            xmin = 947.4606819450299 
+            xmax = 949.1900939819292 
+            text = "kidaak" 
+        intervals [323]:
+            xmin = 949.1900939819292 
+            xmax = 949.297067922356 
+            text = "xxx" 
+        intervals [324]:
+            xmin = 949.297067922356 
+            xmax = 951.151282889753 
+            text = "kidiik" 
+        intervals [325]:
+            xmin = 951.151282889753 
+            xmax = 951.276085820251 
+            text = "xxx" 
+        intervals [326]:
+            xmin = 951.276085820251 
+            xmax = 953.1837877578614 
+            text = "kaas3ak" 
+        intervals [327]:
+            xmin = 953.1837877578614 
+            xmax = 953.2372747280748 
+            text = "xxx" 
+        intervals [328]:
+            xmin = 953.2372747280748 
+            xmax = 955.0736607054008 
+            text = "kaas3ik" 
+        intervals [329]:
+            xmin = 955.0736607054008 
+            xmax = 955.2519506061121 
+            text = "xxx" 
+        intervals [330]:
+            xmin = 955.2519506061121 
+            xmax = 957.070507593367 
+            text = "kaas3aak" 
+        intervals [331]:
+            xmin = 957.070507593367 
+            xmax = 957.3022844642916 
+            text = "xxx" 
+        intervals [332]:
+            xmin = 957.3022844642916 
+            xmax = 959.1208414515464 
+            text = "kaas3iik" 
+        intervals [333]:
+            xmin = 959.1208414515464 
+            xmax = 959.2362903026391 
+            text = "xxx" 
+        intervals [334]:
+            xmin = 959.2362903026391 
+            xmax = 961.0370182998228 
+            text = "kiis3ak" 
+        intervals [335]:
+            xmin = 961.0370182998228 
+            xmax = 961.1796502203917 
+            text = "xxx" 
+        intervals [336]:
+            xmin = 961.1796502203917 
+            xmax = 963.0338651877889 
+            text = "kiis3ik" 
+        intervals [337]:
+            xmin = 963.0338651877889 
+            xmax = 963.1764971083579 
+            text = "xxx" 
+        intervals [338]:
+            xmin = 963.1764971083579 
+            xmax = 965.0307120757551 
+            text = "kiis3aak" 
+        intervals [339]:
+            xmin = 965.0307120757551 
+            xmax = 965.1555150062529 
+            text = "xxx" 
+        intervals [340]:
+            xmin = 965.1555150062529 
+            xmax = 967.1523618942191 
+            text = "kiis3iik" 
+        intervals [341]:
+            xmin = 967.1523618942191 
+            xmax = 973.1988805599974 
+            text = "xxx" 
+        intervals [342]:
+            xmin = 973.1988805599974 
+            xmax = 975.0174375472523 
+            text = "kaath3iik" 
+        intervals [343]:
+            xmin = 975.0174375472523 
+            xmax = 975.1778984578924 
+            text = "xxx" 
+        intervals [344]:
+            xmin = 975.1778984578924 
+            xmax = 976.9786264550761 
+            text = "kiith3ak" 
+        intervals [345]:
+            xmin = 976.9786264550761 
+            xmax = 977.1212583756451 
+            text = "xxx" 
+        intervals [346]:
+            xmin = 977.1212583756451 
+            xmax = 978.9219863728289 
+            text = "kiith3ik" 
+        intervals [347]:
+            xmin = 978.9219863728289 
+            xmax = 979.082447283469 
+            text = "xxx" 
+        intervals [348]:
+            xmin = 979.082447283469 
+            xmax = 980.9188332607949 
+            text = "kiith3aak" 
+        intervals [349]:
+            xmin = 980.9188332607949 
+            xmax = 981.061465181364 
+            text = "xxx" 
+        intervals [350]:
+            xmin = 981.061465181364 
+            xmax = 982.8800221686189 
+            text = "kiith3iik" 
+        intervals [351]:
+            xmin = 982.8800221686189 
+            xmax = 983.0583120693301 
+            text = "xxx" 
+        intervals [352]:
+            xmin = 983.0583120693301 
+            xmax = 984.8590400665139 
+            text = "kaad3ak" 
+        intervals [353]:
+            xmin = 984.8590400665139 
+            xmax = 985.0373299672251 
+            text = "xxx" 
+        intervals [354]:
+            xmin = 985.0373299672251 
+            xmax = 986.7845709941955 
+            text = "kaad3ik" 
+        intervals [355]:
+            xmin = 986.7845709941955 
+            xmax = 986.8737159445511 
+            text = "xxx" 
+        intervals [356]:
+            xmin = 986.8737159445511 
+            xmax = 988.7635888920905 
+            text = "kaad3aak" 
+        intervals [357]:
+            xmin = 988.7635888920905 
+            xmax = 988.8883918225883 
+            text = "xxx" 
+        intervals [358]:
+            xmin = 988.8883918225883 
+            xmax = 990.6534618396298 
+            text = "kaad3iik" 
+        intervals [359]:
+            xmin = 990.6534618396298 
+            xmax = 990.7426067899855 
+            text = "xxx" 
+        intervals [360]:
+            xmin = 990.7426067899855 
+            xmax = 992.6253726708817 
+            text = "kiid3ak" 
+        intervals [361]:
+            xmin = 992.6253726708817 
+            xmax = 992.6920732336644 
+            text = "xxx" 
+        intervals [362]:
+            xmin = 992.6920732336644 
+            xmax = 994.5284592109904 
+            text = "kiid3ik" 
+        intervals [363]:
+            xmin = 994.5284592109904 
+            xmax = 994.5462882010615 
+            text = "xxx" 
+        intervals [364]:
+            xmin = 994.5462882010615 
+            xmax = 996.4718191287432 
+            text = "kiid3aak" 
+        intervals [365]:
+            xmin = 996.4718191287432 
+            xmax = 996.6322800393832 
+            text = "xxx" 
+        intervals [366]:
+            xmin = 996.6322800393832 
+            xmax = 998.433008036567 
+            text = "kiid3iik" 
+        intervals [367]:
+            xmin = 998.433008036567 
+            xmax = 998.5578109670648 
+            text = "xxx" 
+        intervals [368]:
+            xmin = 998.5578109670648 
+            xmax = 1000.3585389642486 
+            text = "kaasak" 
+        intervals [369]:
+            xmin = 1000.3585389642486 
+            xmax = 1000.554657855031 
+            text = "xxx" 
+        intervals [370]:
+            xmin = 1000.554657855031 
+            xmax = 1002.4267018124992 
+            text = "kaasik" 
+        intervals [371]:
+            xmin = 1002.4267018124992 
+            xmax = 1002.5158467628548 
+            text = "xxx" 
+        intervals [372]:
+            xmin = 1002.5158467628548 
+            xmax = 1004.3522327401809 
+            text = "kaasaak" 
+        intervals [373]:
+            xmin = 1004.3522327401809 
+            xmax = 1004.5661806210344 
+            text = "xxx" 
+        intervals [374]:
+            xmin = 1004.5661806210344 
+            xmax = 1006.4382245785026 
+            text = "kaasiik" 
+        intervals [375]:
+            xmin = 1006.4382245785026 
+            xmax = 1006.6521724593562 
+            text = "xxx" 
+        intervals [376]:
+            xmin = 1006.6521724593562 
+            xmax = 1008.4885584366822 
+            text = "kiisak" 
+        intervals [377]:
+            xmin = 1008.4885584366822 
+            xmax = 1017.078762088034 
+            text = "xxx" 
+        intervals [378]:
+            xmin = 1017.078762088034 
+            xmax = 1018.8794900852178 
+            text = "kiisiik" 
+        intervals [379]:
+            xmin = 1018.8794900852178 
+            xmax = 1019.0577799859291 
+            text = "xxx" 
+        intervals [380]:
+            xmin = 1019.0577799859291 
+            xmax = 1021.161600814322 
+            text = "kaathak" 
+        intervals [381]:
+            xmin = 1021.161600814322 
+            xmax = 1021.2507457646776 
+            text = "xxx" 
+        intervals [382]:
+            xmin = 1021.2507457646776 
+            xmax = 1022.9801578015769 
+            text = "kaathik" 
+        intervals [383]:
+            xmin = 1022.9801578015769 
+            xmax = 1023.1584477022882 
+            text = "xxx" 
+        intervals [384]:
+            xmin = 1023.1584477022882 
+            xmax = 1025.101807620041 
+            text = "kaathaak" 
+        intervals [385]:
+            xmin = 1025.101807620041 
+            xmax = 1031.9506314764944 
+            text = "xxx" 
+        intervals [386]:
+            xmin = 1031.9506314764944 
+            xmax = 1033.7335304836072 
+            text = "kathiik" 
+        intervals [387]:
+            xmin = 1033.7335304836072 
+            xmax = 1033.8939913942472 
+            text = "xxx" 
+        intervals [388]:
+            xmin = 1033.8939913942472 
+            xmax = 1035.6590614112888 
+            text = "kataak" 
+        intervals [389]:
+            xmin = 1035.6590614112888 
+            xmax = 1035.8551803020712 
+            text = "xxx" 
+        intervals [390]:
+            xmin = 1035.8551803020712 
+            xmax = 1037.5845923389704 
+            text = "kaatiik" 
+        intervals [391]:
+            xmin = 1037.5845923389704 
+            xmax = 1037.798540219824 
+            text = "xxx" 
+        intervals [392]:
+            xmin = 1037.798540219824 
+            xmax = 1039.5457812467944 
+            text = "kiitak" 
+        intervals [393]:
+            xmin = 1039.5457812467944 
+            xmax = 1039.741900137577 
+            text = "xxx" 
+        intervals [394]:
+            xmin = 1039.741900137577 
+            xmax = 1041.453483184405 
+            text = "kiitik" 
+        intervals [395]:
+            xmin = 1041.453483184405 
+            xmax = 1041.6496020751874 
+            text = "xxx" 
+        intervals [396]:
+            xmin = 1041.6496020751874 
+            xmax = 1043.3968431021578 
+            text = "kiitaak" 
+        intervals [397]:
+            xmin = 1043.3968431021578 
+            xmax = 1043.539475022727 
+            text = "xxx" 
+        intervals [398]:
+            xmin = 1043.539475022727 
+            xmax = 1045.375861000053 
+            text = "kiitiik" 
+        intervals [399]:
+            xmin = 1045.375861000053 
+            xmax = 1045.500663930551 
+            text = "xxx" 
+        intervals [400]:
+            xmin = 1045.500663930551 
+            xmax = 1047.3013919277348 
+            text = "kaadak" 
+        intervals [401]:
+            xmin = 1047.3013919277348 
+            xmax = 1047.5153398085884 
+            text = "xxx" 
+        intervals [402]:
+            xmin = 1047.5153398085884 
+            xmax = 1049.2982388157009 
+            text = "kaadik" 
+        intervals [403]:
+            xmin = 1049.2982388157009 
+            xmax = 1049.4160573264817 
+            text = "xxx" 
+        intervals [404]:
+            xmin = 1049.4160573264817 
+            xmax = 1051.252443303808 
+            text = "kaadaak" 
+        intervals [405]:
+            xmin = 1051.252443303808 
+            xmax = 1051.3237592640924 
+            text = "xxx" 
+        intervals [406]:
+            xmin = 1051.3237592640924 
+            xmax = 1053.1423162513472 
+            text = "kaadiik" 
+        intervals [407]:
+            xmin = 1053.1423162513472 
+            xmax = 1053.3027771619875 
+            text = "xxx" 
+        intervals [408]:
+            xmin = 1053.3027771619875 
+            xmax = 1055.1035051591714 
+            text = "kiidak" 
+        intervals [409]:
+            xmin = 1055.1035051591714 
+            xmax = 1055.353111020167 
+            text = "xxx" 
+        intervals [410]:
+            xmin = 1055.353111020167 
+            xmax = 1057.029036086853 
+            text = "xis3" 
+        intervals [411]:
+            xmin = 1057.029036086853 
+            xmax = 1057.2964709379198 
+            text = "xxx" 
+        intervals [412]:
+            xmin = 1057.2964709379198 
+            xmax = 1058.9189090343925 
+            text = "xus3" 
+        intervals [413]:
+            xmin = 1058.9189090343925 
+            xmax = 1059.0971989351037 
+            text = "xxx" 
+        intervals [414]:
+            xmin = 1059.0971989351037 
+            xmax = 1060.8979269322876 
+            text = "kiidaak" 
+        intervals [415]:
+            xmin = 1060.8979269322876 
+            xmax = 1061.0405588528565 
+            text = "xxx" 
+        intervals [416]:
+            xmin = 1061.0405588528565 
+            xmax = 1062.8412868500404 
+            text = "kiidiik" 
+        intervals [417]:
+            xmin = 1062.8412868500404 
+            xmax = 1062.9839187706093 
+            text = "xxx" 
+        intervals [418]:
+            xmin = 1062.9839187706093 
+            xmax = 1064.606356867082 
+            text = "xas3" 
+        intervals [419]:
+            xmin = 1064.606356867082 
+            xmax = 1064.748988787651 
+            text = "xxx" 
+        intervals [420]:
+            xmin = 1064.748988787651 
+            xmax = 1066.4605718344792 
+            text = "xiis3" 
+        intervals [421]:
+            xmin = 1066.4605718344792 
+            xmax = 1066.652075327759 
+            text = "xxx" 
+        intervals [422]:
+            xmin = 1066.652075327759 
+            xmax = 1068.3101714043737 
+            text = "xuus3" 
+        intervals [423]:
+            xmin = 1068.3101714043737 
+            xmax = 1068.4884613050851 
+            text = "xxx" 
+        intervals [424]:
+            xmin = 1068.4884613050851 
+            xmax = 1070.2178733419844 
+            text = "xaas3" 
+        intervals [425]:
+            xmin = 1070.2178733419844 
+            xmax = 1074.1580801477035 
+            text = "xxx" 
+        intervals [426]:
+            xmin = 1074.1580801477035 
+            xmax = 1075.9944661250295 
+            text = "kiidik" 
+        intervals [427]:
+            xmin = 1075.9944661250295 
+            xmax = 1076.1014400654562 
+            text = "xxx" 
+        intervals [428]:
+            xmin = 1076.1014400654562 
+            xmax = 1077.7060491718578 
+            text = "qas3" 
+        intervals [429]:
+            xmin = 1077.7060491718578 
+            xmax = 1077.9021680626402 
+            text = "xxx" 
+        intervals [430]:
+            xmin = 1077.9021680626402 
+            xmax = 1079.595922119397 
+            text = "qis3" 
+        intervals [431]:
+            xmin = 1079.595922119397 
+            xmax = 1079.7385540399662 
+            text = "xxx" 
+        intervals [432]:
+            xmin = 1079.7385540399662 
+            xmax = 1081.4144791066522 
+            text = "qus3" 
+        intervals [433]:
+            xmin = 1081.4144791066522 
+            xmax = 1086.5173077707054 
+            text = "xxx" 
+        intervals [434]:
+            xmin = 1086.5173077707054 
+            xmax = 1088.282377787747 
+            text = "7as3" 
+        intervals [435]:
+            xmin = 1088.282377787747 
+            xmax = 1088.442838698387 
+            text = "xxx" 
+        intervals [436]:
+            xmin = 1088.442838698387 
+            xmax = 1090.1900797253577 
+            text = "7is3" 
+        intervals [437]:
+            xmin = 1090.1900797253577 
+            xmax = 1090.2792246757133 
+            text = "xxx" 
+        intervals [438]:
+            xmin = 1090.2792246757133 
+            xmax = 1091.9908077225414 
+            text = "qiis3" 
+        intervals [439]:
+            xmin = 1091.9908077225414 
+            xmax = 1092.1512686331816 
+            text = "xxx" 
+        intervals [440]:
+            xmin = 1092.1512686331816 
+            xmax = 1093.7915357197253 
+            text = "quus3" 
+        intervals [441]:
+            xmin = 1093.7915357197253 
+            xmax = 1093.9876546105077 
+            text = "xxx" 
+        intervals [442]:
+            xmin = 1093.9876546105077 
+            xmax = 1095.6814086672648 
+            text = "7iis3" 
+        intervals [443]:
+            xmin = 1095.6814086672648 
+            xmax = 1095.8953565481181 
+            text = "xxx" 
+        intervals [444]:
+            xmin = 1095.8953565481181 
+            xmax = 1097.4821366644485 
+            text = "7us3" 
+        intervals [445]:
+            xmin = 1097.4821366644485 
+            xmax = 1097.696084545302 
+            text = "xxx" 
+        intervals [446]:
+            xmin = 1097.696084545302 
+            xmax = 1099.3898386020592 
+            text = "7aas3" 
+        intervals [447]:
+            xmin = 1099.3898386020592 
+            xmax = 1099.5502995126992 
+            text = "xxx" 
+        intervals [448]:
+            xmin = 1099.5502995126992 
+            xmax = 1101.2440535694564 
+            text = "qaas3" 
+        intervals [449]:
+            xmin = 1101.2440535694564 
+            xmax = 1101.4045144800964 
+            text = "xxx" 
+        intervals [450]:
+            xmin = 1101.4045144800964 
+            xmax = 1103.169584497138 
+            text = "7uus3" 
+        intervals [451]:
+            xmin = 1103.169584497138 
+            xmax = 1103.2765584375647 
+            text = "xxx" 
+        intervals [452]:
+            xmin = 1103.2765584375647 
+            xmax = 1104.9346545141796 
+            text = "xas" 
+        intervals [453]:
+            xmin = 1104.9346545141796 
+            xmax = 1105.1237889852448 
+            text = "xxx" 
+        intervals [454]:
+            xmin = 1105.1237889852448 
+            xmax = 1106.817543042002 
+            text = "xis" 
+        intervals [455]:
+            xmin = 1106.817543042002 
+            xmax = 1106.978003952642 
+            text = "xxx" 
+        intervals [456]:
+            xmin = 1106.978003952642 
+            xmax = 1108.6182710391856 
+            text = "xus" 
+        intervals [457]:
+            xmin = 1108.6182710391856 
+            xmax = 1108.957021850537 
+            text = "xxx" 
+        intervals [458]:
+            xmin = 1108.957021850537 
+            xmax = 1110.7220918675787 
+            text = "xaas" 
+        intervals [459]:
+            xmin = 1110.7220918675787 
+            xmax = 1110.9538687385034 
+            text = "xxx" 
+        intervals [460]:
+            xmin = 1110.9538687385034 
+            xmax = 1112.5763068349759 
+            text = "xiis" 
+        intervals [461]:
+            xmin = 1112.5763068349759 
+            xmax = 1112.7902547158294 
+            text = "xxx" 
+        intervals [462]:
+            xmin = 1112.7902547158294 
+            xmax = 1114.4661797825154 
+            text = "xuus" 
+        intervals [463]:
+            xmin = 1114.4661797825154 
+            xmax = 1114.7514436236534 
+            text = "xxx" 
+        intervals [464]:
+            xmin = 1114.7514436236534 
+            xmax = 1116.4273686903393 
+            text = "qas" 
+        intervals [465]:
+            xmin = 1116.4273686903393 
+            xmax = 1116.5521716208373 
+            text = "xxx" 
+        intervals [466]:
+            xmin = 1116.5521716208373 
+            xmax = 1118.210267697452 
+            text = "qis" 
+        intervals [467]:
+            xmin = 1118.210267697452 
+            xmax = 1118.3885575981633 
+            text = "xxx" 
+        intervals [468]:
+            xmin = 1118.3885575981633 
+            xmax = 1120.0823116549204 
+            text = "qus" 
+        intervals [469]:
+            xmin = 1120.0823116549204 
+            xmax = 1120.2249435754893 
+            text = "xxx" 
+        intervals [470]:
+            xmin = 1120.2249435754893 
+            xmax = 1121.9008686421753 
+            text = "qaas" 
+        intervals [471]:
+            xmin = 1121.9008686421753 
+            xmax = 1122.0923721354552 
+            text = "xxx" 
+        intervals [472]:
+            xmin = 1122.0923721354552 
+            xmax = 1123.714810231928 
+            text = "qiis" 
+        intervals [473]:
+            xmin = 1123.714810231928 
+            xmax = 1123.8574421524968 
+            text = "xxx" 
+        intervals [474]:
+            xmin = 1123.8574421524968 
+            xmax = 1125.5333672191828 
+            text = "quus" 
+        intervals [475]:
+            xmin = 1125.5333672191828 
+            xmax = 1125.6938281298228 
+            text = "xxx" 
+        intervals [476]:
+            xmin = 1125.6938281298228 
+            xmax = 1127.38758218658 
+            text = "7as" 
+        intervals [477]:
+            xmin = 1127.38758218658 
+            xmax = 1127.5837010773623 
+            text = "xxx" 
+        intervals [478]:
+            xmin = 1127.5837010773623 
+            xmax = 1129.366600084475 
+            text = "7is" 
+        intervals [479]:
+            xmin = 1129.366600084475 
+            xmax = 1129.491403014973 
+            text = "xxx" 
+        intervals [480]:
+            xmin = 1129.491403014973 
+            xmax = 1131.202986061801 
+            text = "7us" 
+        intervals [481]:
+            xmin = 1131.202986061801 
+            xmax = 1137.7462254179047 
+            text = "xxx" 
+        intervals [482]:
+            xmin = 1137.7462254179047 
+            xmax = 1139.4221504845907 
+            text = "7aas" 
+        intervals [483]:
+            xmin = 1139.4221504845907 
+            xmax = 1139.5577979854427 
+            text = "xxx" 
+        intervals [484]:
+            xmin = 1139.5577979854427 
+            xmax = 1141.3228680024843 
+            text = "7iis" 
+        intervals [485]:
+            xmin = 1141.3228680024843 
+            xmax = 1141.429841942911 
+            text = "xxx" 
+        intervals [486]:
+            xmin = 1141.429841942911 
+            xmax = 1143.105767009597 
+            text = "s3ux" 
+        intervals [487]:
+            xmin = 1143.105767009597 
+            xmax = 1143.248398930166 
+            text = "xxx" 
+        intervals [488]:
+            xmin = 1143.248398930166 
+            xmax = 1144.906495006781 
+            text = "s3aax" 
+        intervals [489]:
+            xmin = 1144.906495006781 
+            xmax = 1145.066955917421 
+            text = "xxx" 
+        intervals [490]:
+            xmin = 1145.066955917421 
+            xmax = 1146.742880984107 
+            text = "s3iix" 
+        intervals [491]:
+            xmin = 1146.742880984107 
+            xmax = 1146.9211708848181 
+            text = "xxx" 
+        intervals [492]:
+            xmin = 1146.9211708848181 
+            xmax = 1148.579266961433 
+            text = "s3uux" 
+        intervals [493]:
+            xmin = 1148.579266961433 
+            xmax = 1148.7040698919309 
+            text = "xxx" 
+        intervals [494]:
+            xmin = 1148.7040698919309 
+            xmax = 1150.3799949586169 
+            text = "s3aq" 
+        intervals [495]:
+            xmin = 1150.3799949586169 
+            xmax = 1150.4869688990436 
+            text = "xxx" 
+        intervals [496]:
+            xmin = 1150.4869688990436 
+            xmax = 1152.1807229558008 
+            text = "s3iq" 
+        intervals [497]:
+            xmin = 1152.1807229558008 
+            xmax = 1152.234209926014 
+            text = "xxx" 
+        intervals [498]:
+            xmin = 1152.234209926014 
+            xmax = 1153.9814509529845 
+            text = "s3uq" 
+        intervals [499]:
+            xmin = 1153.9814509529845 
+            xmax = 1154.1240828735536 
+            text = "xxx" 
+        intervals [500]:
+            xmin = 1154.1240828735536 
+            xmax = 1155.8000079402395 
+            text = "s3aaq" 
+        intervals [501]:
+            xmin = 1155.8000079402395 
+            xmax = 1155.9426398608084 
+            text = "xxx" 
+        intervals [502]:
+            xmin = 1155.9426398608084 
+            xmax = 1157.6898808877788 
+            text = "s3ix" 
+        intervals [503]:
+            xmin = 1157.6898808877788 
+            xmax = 1157.7542124283461 
+            text = "xxx" 
+        intervals [504]:
+            xmin = 1157.7542124283461 
+            xmax = 1159.5014534553168 
+            text = "s3iiq" 
+        intervals [505]:
+            xmin = 1159.5014534553168 
+            xmax = 1159.7154013361703 
+            text = "xxx" 
+        intervals [506]:
+            xmin = 1159.7154013361703 
+            xmax = 1161.3378394326428 
+            text = "7uus" 
+        intervals [507]:
+            xmin = 1161.3378394326428 
+            xmax = 1161.5517873134963 
+            text = "xxx" 
+        intervals [508]:
+            xmin = 1161.5517873134963 
+            xmax = 1163.19205440004 
+            text = "s3ax" 
+        intervals [509]:
+            xmin = 1163.19205440004 
+            xmax = 1163.316857330538 
+            text = "xxx" 
+        intervals [510]:
+            xmin = 1163.316857330538 
+            xmax = 1165.028440377366 
+            text = "s3uuq" 
+        intervals [511]:
+            xmin = 1165.028440377366 
+            xmax = 1165.0640983575083 
+            text = "xxx" 
+        intervals [512]:
+            xmin = 1165.0640983575083 
+            xmax = 1166.82916837455 
+            text = "s3a7" 
+        intervals [513]:
+            xmin = 1166.82916837455 
+            xmax = 1166.9004843348343 
+            text = "xxx" 
+        intervals [514]:
+            xmin = 1166.9004843348343 
+            xmax = 1168.5942383915915 
+            text = "s3i7" 
+        intervals [515]:
+            xmin = 1168.5942383915915 
+            xmax = 1168.7725282923027 
+            text = "xxx" 
+        intervals [516]:
+            xmin = 1168.7725282923027 
+            xmax = 1170.484111339131 
+            text = "s3u7" 
+        intervals [517]:
+            xmin = 1170.484111339131 
+            xmax = 1170.6267432596999 
+            text = "xxx" 
+        intervals [518]:
+            xmin = 1170.6267432596999 
+            xmax = 1172.320497316457 
+            text = "s3aa7" 
+        intervals [519]:
+            xmin = 1172.320497316457 
+            xmax = 1172.463129237026 
+            text = "xxx" 
+        intervals [520]:
+            xmin = 1172.463129237026 
+            xmax = 1174.0499093533563 
+            text = "s3ii7" 
+        intervals [521]:
+            xmin = 1174.0499093533563 
+            xmax = 1174.281686224281 
+            text = "xxx" 
+        intervals [522]:
+            xmin = 1174.281686224281 
+            xmax = 1175.993269271109 
+            text = "s3uu7" 
+        intervals [523]:
+            xmin = 1175.993269271109 
+            xmax = 1176.0908897696045 
+            text = "xxx" 
+        intervals [524]:
+            xmin = 1176.0908897696045 
+            xmax = 1177.8024728164328 
+            text = "sax" 
+        intervals [525]:
+            xmin = 1177.8024728164328 
+            xmax = 1177.9094467568593 
+            text = "xxx" 
+        intervals [526]:
+            xmin = 1177.9094467568593 
+            xmax = 1179.6032008136165 
+            text = "six" 
+        intervals [527]:
+            xmin = 1179.6032008136165 
+            xmax = 1179.7814907143277 
+            text = "xxx" 
+        intervals [528]:
+            xmin = 1179.7814907143277 
+            xmax = 1181.5287317412983 
+            text = "sux" 
+        intervals [529]:
+            xmin = 1181.5287317412983 
+            xmax = 1189.0347365612427 
+            text = "xxx" 
+        intervals [530]:
+            xmin = 1189.0347365612427 
+            xmax = 1190.8176355683554 
+            text = "saax" 
+        intervals [531]:
+            xmin = 1190.8176355683554 
+            xmax = 1190.8711225385687 
+            text = "xxx" 
+        intervals [532]:
+            xmin = 1190.8711225385687 
+            xmax = 1192.5470476052546 
+            text = "siix" 
+        intervals [533]:
+            xmin = 1192.5470476052546 
+            xmax = 1192.6517751703934 
+            text = "xxx" 
+        intervals [534]:
+            xmin = 1192.6517751703934 
+            xmax = 1194.292042256937 
+            text = "suux" 
+        intervals [535]:
+            xmin = 1194.292042256937 
+            xmax = 1194.4703321576483 
+            text = "xxx" 
+        intervals [536]:
+            xmin = 1194.4703321576483 
+            xmax = 1196.0749412640498 
+            text = "saq" 
+        intervals [537]:
+            xmin = 1196.0749412640498 
+            xmax = 1196.2710601548322 
+            text = "xxx" 
+        intervals [538]:
+            xmin = 1196.2710601548322 
+            xmax = 1197.964814211589 
+            text = "siq" 
+        intervals [539]:
+            xmin = 1197.964814211589 
+            xmax = 1198.1252751222294 
+            text = "xxx" 
+        intervals [540]:
+            xmin = 1198.1252751222294 
+            xmax = 1199.7833711988442 
+            text = "suq" 
+        intervals [541]:
+            xmin = 1199.7833711988442 
+            xmax = 1199.9260031194133 
+            text = "xxx" 
+        intervals [542]:
+            xmin = 1199.9260031194133 
+            xmax = 1201.584099196028 
+            text = "baas" 
+        intervals [543]:
+            xmin = 1201.584099196028 
+            xmax = 1201.7802180868105 
+            text = "xxx" 
+        intervals [544]:
+            xmin = 1201.7802180868105 
+            xmax = 1203.3669982031406 
+            text = "buus" 
+        intervals [545]:
+            xmin = 1203.3669982031406 
+            xmax = 1203.4739721435674 
+            text = "xxx" 
+        intervals [546]:
+            xmin = 1203.4739721435674 
+            xmax = 1205.1677262003245 
+            text = "biis" 
+        intervals [547]:
+            xmin = 1205.1677262003245 
+            xmax = 1205.2747001407513 
+            text = "xxx" 
+        intervals [548]:
+            xmin = 1205.2747001407513 
+            xmax = 1206.932796217366 
+            text = "bas3" 
+        intervals [549]:
+            xmin = 1206.932796217366 
+            xmax = 1207.0754281379352 
+            text = "xxx" 
+        intervals [550]:
+            xmin = 1207.0754281379352 
+            xmax = 1208.7691821946921 
+            text = "bus3" 
+        intervals [551]:
+            xmin = 1208.7691821946921 
+            xmax = 1208.9296431053324 
+            text = "xxx" 
+        intervals [552]:
+            xmin = 1208.9296431053324 
+            xmax = 1210.6055681720181 
+            text = "bis3" 
+        intervals [553]:
+            xmin = 1210.6055681720181 
+            xmax = 1210.866018603368 
+            text = "xxx" 
+        intervals [554]:
+            xmin = 1210.866018603368 
+            xmax = 1212.4349697296273 
+            text = "baas3" 
+        intervals [555]:
+            xmin = 1212.4349697296273 
+            xmax = 1212.6489176104808 
+            text = "xxx" 
+        intervals [556]:
+            xmin = 1212.6489176104808 
+            xmax = 1214.253526716882 
+            text = "buus3" 
+        intervals [557]:
+            xmin = 1214.253526716882 
+            xmax = 1214.4318166175935 
+            text = "xxx" 
+        intervals [558]:
+            xmin = 1214.4318166175935 
+            xmax = 1216.0185967339237 
+            text = "biit" 
+        intervals [559]:
+            xmin = 1216.0185967339237 
+            xmax = 1216.179057644564 
+            text = "xxx" 
+        intervals [560]:
+            xmin = 1216.179057644564 
+            xmax = 1217.7658377608943 
+            text = "bat3" 
+        intervals [561]:
+            xmin = 1217.7658377608943 
+            xmax = 1217.9441276616055 
+            text = "xxx" 
+        intervals [562]:
+            xmin = 1217.9441276616055 
+            xmax = 1219.5487367680068 
+            text = "but3" 
+        intervals [563]:
+            xmin = 1219.5487367680068 
+            xmax = 1219.7270266687183 
+            text = "xxx" 
+        intervals [564]:
+            xmin = 1219.7270266687183 
+            xmax = 1221.4207807254752 
+            text = "bit3" 
+        intervals [565]:
+            xmin = 1221.4207807254752 
+            xmax = 1221.527754665902 
+            text = "xxx" 
+        intervals [566]:
+            xmin = 1221.527754665902 
+            xmax = 1223.1858507425168 
+            text = "baat3" 
+        intervals [567]:
+            xmin = 1223.1858507425168 
+            xmax = 1223.3284826630859 
+            text = "xxx" 
+        intervals [568]:
+            xmin = 1223.3284826630859 
+            xmax = 1225.0044077297719 
+            text = "buut3" 
+        intervals [569]:
+            xmin = 1225.0044077297719 
+            xmax = 1225.1470396503407 
+            text = "xxx" 
+        intervals [570]:
+            xmin = 1225.1470396503407 
+            xmax = 1226.7694777468134 
+            text = "biit3" 
+        intervals [571]:
+            xmin = 1226.7694777468134 
+            xmax = 1226.9121096673823 
+            text = "xxx" 
+        intervals [572]:
+            xmin = 1226.9121096673823 
+            xmax = 1228.5880347340683 
+            text = "bad" 
+        intervals [573]:
+            xmin = 1228.5880347340683 
+            xmax = 1228.7058526073743 
+            text = "xxx" 
+        intervals [574]:
+            xmin = 1228.7058526073743 
+            xmax = 1230.363948683989 
+            text = "bud" 
+        intervals [575]:
+            xmin = 1230.363948683989 
+            xmax = 1230.4709226244158 
+            text = "xxx" 
+        intervals [576]:
+            xmin = 1230.4709226244158 
+            xmax = 1232.2359926414574 
+            text = "bid" 
+        intervals [577]:
+            xmin = 1232.2359926414574 
+            xmax = 1237.4598867322977 
+            text = "xxx" 
+        intervals [578]:
+            xmin = 1237.4598867322977 
+            xmax = 1239.0823248287702 
+            text = "baad" 
+        intervals [579]:
+            xmin = 1239.0823248287702 
+            xmax = 1239.189298769197 
+            text = "xxx" 
+        intervals [580]:
+            xmin = 1239.189298769197 
+            xmax = 1240.9008818160253 
+            text = "buud" 
+        intervals [581]:
+            xmin = 1240.9008818160253 
+            xmax = 1241.007855756452 
+            text = "xxx" 
+        intervals [582]:
+            xmin = 1241.007855756452 
+            xmax = 1242.6659518330669 
+            text = "biid" 
+        intervals [583]:
+            xmin = 1242.6659518330669 
+            xmax = 1242.844241733778 
+            text = "xxx" 
+        intervals [584]:
+            xmin = 1242.844241733778 
+            xmax = 1244.395363869966 
+            text = "bad3" 
+        intervals [585]:
+            xmin = 1244.395363869966 
+            xmax = 1244.5558247806061 
+            text = "xxx" 
+        intervals [586]:
+            xmin = 1244.5558247806061 
+            xmax = 1246.1782628770789 
+            text = "bid3" 
+        intervals [587]:
+            xmin = 1246.1782628770789 
+            xmax = 1246.349568358073 
+            text = "xxx" 
+        intervals [588]:
+            xmin = 1246.349568358073 
+            xmax = 1248.04332241483 
+            text = "t3uub" 
+        intervals [589]:
+            xmin = 1248.04332241483 
+            xmax = 1248.1324673651857 
+            text = "xxx" 
+        intervals [590]:
+            xmin = 1248.1324673651857 
+            xmax = 1249.7727344517293 
+            text = "t3iib" 
+        intervals [591]:
+            xmin = 1249.7727344517293 
+            xmax = 1249.9153663722984 
+            text = "xxx" 
+        intervals [592]:
+            xmin = 1249.9153663722984 
+            xmax = 1251.5199754786997 
+            text = "bud3" 
+        intervals [593]:
+            xmin = 1251.5199754786997 
+            xmax = 1251.68043638934 
+            text = "xxx" 
+        intervals [594]:
+            xmin = 1251.68043638934 
+            xmax = 1253.2672165056704 
+            text = "buud3" 
+        intervals [595]:
+            xmin = 1253.2672165056704 
+            xmax = 1253.4455064063816 
+            text = "xxx" 
+        intervals [596]:
+            xmin = 1253.4455064063816 
+            xmax = 1255.050115512783 
+            text = "baad3" 
+        intervals [597]:
+            xmin = 1255.050115512783 
+            xmax = 1255.2462344035653 
+            text = "xxx" 
+        intervals [598]:
+            xmin = 1255.2462344035653 
+            xmax = 1256.7973565397533 
+            text = "bath" 
+        intervals [599]:
+            xmin = 1256.7973565397533 
+            xmax = 1256.9399884603224 
+            text = "xxx" 
+        intervals [600]:
+            xmin = 1256.9399884603224 
+            xmax = 1258.5980845369372 
+            text = "biid3" 
+        intervals [601]:
+            xmin = 1258.5980845369372 
+            xmax = 1258.7228874674352 
+            text = "xxx" 
+        intervals [602]:
+            xmin = 1258.7228874674352 
+            xmax = 1260.3096675837655 
+            text = "t3ab" 
+        intervals [603]:
+            xmin = 1260.3096675837655 
+            xmax = 1260.4522995043344 
+            text = "xxx" 
+        intervals [604]:
+            xmin = 1260.4522995043344 
+            xmax = 1262.092566590878 
+            text = "t3ub" 
+        intervals [605]:
+            xmin = 1262.092566590878 
+            xmax = 1262.2708564915895 
+            text = "xxx" 
+        intervals [606]:
+            xmin = 1262.2708564915895 
+            xmax = 1263.9467815582752 
+            text = "t3ib" 
+        intervals [607]:
+            xmin = 1263.9467815582752 
+            xmax = 1264.0887516476666 
+            text = "xxx" 
+        intervals [608]:
+            xmin = 1264.0887516476666 
+            xmax = 1265.7111897441391 
+            text = "t3aab" 
+        intervals [609]:
+            xmin = 1265.7111897441391 
+            xmax = 1265.835992674637 
+            text = "xxx" 
+        intervals [610]:
+            xmin = 1265.835992674637 
+            xmax = 1267.4762597611807 
+            text = "buth" 
+        intervals [611]:
+            xmin = 1267.4762597611807 
+            xmax = 1274.9496598639455 
+            text = "" 
