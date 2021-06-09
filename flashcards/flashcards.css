@@ -1,7 +1,7 @@
 html{
   min-width:100%;
   max-width:900px;
-  overflow:hidden;
+  /* overflow:hidden; */
 }
 h4{
   text-align: center;

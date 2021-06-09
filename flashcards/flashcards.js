@@ -1,4 +1,4 @@
-function Card(term, definition, category) {
+function Card(term, definition) {
   this.term = term;
   this.definition = definition;
   //this.category = category;
@@ -11,6 +11,13 @@ var flip = document.getElementById("flip");
 var submit = document.getElementById("submit");
 var clearDeck = document.getElementById("clearDeck");
 var formFront, formBack;
+
+function shuffle(array) {
+  for (let i = array.length - 1; i > 0; i--) {
+    let j = Math.floor(Math.random() * (i + 1));
+    [array[i], array[j]] = [array[j], array[i]];
+  }
+}
 
 // $.get('flashcards_info.txt', function(file) {
 
@@ -46,28 +53,26 @@ function slideIn() {
 function slideOut() {
   $('#importExport').animate({ 'left': '-610px' }, 500);
 };
-var card1 = new Card(
-"<img src=\"../arabic_alphabet_with_english_names.gif\">",
-"Where code sits in relation to any surrounding code",
-"General");
-
-var card2 = new Card(
-"Execution Context",
-"How, Why, When, and Where code is executed",
-"General");
-
-var card3 = new Card(
-"JSON",
-"JavaScript Object Notation, for storing objects and their enclosed data. Often referred to as Key Value Pairs",
-"Objects");
 
 
-var myCards = [card1, card2, card3];
+var card1 = new Card("<img src=\"images/Animal/بقرة.jpg\">", "بقرة")
+var card2 = new Card("<img src=\"images/Animal/حصان.png\">", "حصان")
+var card3 = new Card("<img src=\"images/Animal/حيوان.png\">", "حيوان")
+var card4 = new Card("<img src=\"images/Animal/خنزير.jpg\">", "خنزير")
+var card5 = new Card("<img src=\"images/Animal/دجاج.jpg\">", "دجاج")
+var card6 = new Card("<img src=\"images/Animal/سمكة.jpg\">", "سمكة")
+var card7 = new Card("<img src=\"images/Animal/طئر_طير.jpg\">", "طئر_طير")
+var card8 = new Card("<img src=\"images/Animal/عصفور.png\">", "عصفور")
+var card9 = new Card("<img src=\"images/Animal/فأر.jpg\">", "فأر")
+var card10 = new Card("<img src=\"images/Animal/قِطّ_هِرّ_بَسّ .jpg\">", "قِطّ_هِرّ_بَسّ ")
+var card11 = new Card("<img src=\"images/Animal/كلب.jpg\">", "كلب")
+
+var myCards = [card1,card2,card3,card4,card5,card6,card7,card8,card9,card10,card11];
 //var myCards = LoadCards("flashcards.txt");
 var cardIndex = 0;
 
-front.innerHTML = card1.term;
-back.innerHTML = card1.definition;
+front.innerHTML = myCards[0].term;
+back.innerHTML = myCards[0].definition;
 back.style.visibility = "hidden";
 
 function flash() {
@@ -77,6 +82,7 @@ function flash() {
   } else {
     front.style.visibility = "visible";
     back.style.visibility = "hidden";
+
   }
 }
 
