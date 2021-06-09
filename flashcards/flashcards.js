@@ -54,6 +54,9 @@ function slideOut() {
   $('#importExport').animate({ 'left': '-610px' }, 500);
 };
 
+//#to produce following block
+//find images |awk 'BEGIN { FS = "/" } ; NR>1{OFS=","; print  $0, $NF }'|sed 's/\.[[:alpha:]]*$//'| awk '{FS=","; printf "var card" NR-1 " = new Card(\"<img src=\\\""$1"\\\">\", \""$2"\")\n"} END{printf "\nvar myCards = ["; for (i = 1; i <NR-1 ; i++) printf "card"i",";printf "card"NR-1"];\n"}'
+
 
 var card1 = new Card("<img src=\"images/Animal/بقرة.jpg\">", "بقرة")
 var card2 = new Card("<img src=\"images/Animal/حصان.png\">", "حصان")

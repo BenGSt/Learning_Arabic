@@ -1,3 +1,8 @@
+#for flashcards
+find images |awk 'BEGIN { FS = "/" } ; NR>1{OFS=","; print  $0, $NF }'|sed 's/\.[[:alpha:]]*$//'| awk '{FS=","; printf "var card" NR-1 " = new Card(\"<img src=\\\""$1"\\\">\", \""$2"\")\n"} END{printf "\nvar myCards = ["; for (i = 1; i <NR-1 ; i++) printf "card"i",";printf "card"NR-1"];\n"}'
+
+
+
 Your First 625 Words (in Thematic Order, with notes):
 Key:
 Category words (i.e. ‘animal’) are designated with a little superscript C (Like thisC). Learn these words word by using 2-3 other pictures/words on your flashcards (i.e. ‘animal = dog, cat, fish…’).
