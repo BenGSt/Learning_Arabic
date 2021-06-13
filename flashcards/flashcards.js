@@ -83,7 +83,7 @@ var card21 = new Card("<img src=\"images/Transportation/طائرة.jpg\">", "ط�
 var card22 = new Card("<img src=\"images/Transportation/قارب.jpg\">", "قارب")
 var card23 = new Card("<img src=\"images/Transportation/قطار.jpg\">", "قطار")
 var card24 = new Card("<img src=\"images/Transportation/محرك.jpg\">", "محرك")
-var card25 = new Card("<img src=\"images/Transportation/نقل.png\">", "نقل")
+var card25 = new Card("<img src=\"images/Transportation/نقل_مواصلات.png\">", "نقل_مواصلات")
 var card26 = new Card("<img src=\"images/Transportation/وقود.jpg\">", "وقود")
 
 var myCards = [card1,card2,card3,card4,card5,card6,card7,card8,card9,card10,card11,card12,card13,card14,card15,card16,card17,card18,card19,card20,card21,card22,card23,card24,card25,card26];
