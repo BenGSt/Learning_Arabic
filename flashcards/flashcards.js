@@ -58,19 +58,35 @@ function slideOut() {
 //find images |awk 'BEGIN { FS = "/" } ; NR>1{OFS=","; print  $0, $NF }'|sed 's/\.[[:alpha:]]*$//'| awk '{FS=","; printf "var card" NR-1 " = new Card(\"<img src=\\\""$1"\\\">\", \""$2"\")\n"} END{printf "\nvar myCards = ["; for (i = 1; i <NR-1 ; i++) printf "card"i",";printf "card"NR-1"];\n"}'
 
 
-var card1 = new Card("<img src=\"images/Animal/بقرة.jpg\">", "بقرة")
-var card2 = new Card("<img src=\"images/Animal/حصان.png\">", "حصان")
-var card3 = new Card("<img src=\"images/Animal/حيوان.png\">", "حيوان")
-var card4 = new Card("<img src=\"images/Animal/خنزير.jpg\">", "خنزير")
-var card5 = new Card("<img src=\"images/Animal/دجاج.jpg\">", "دجاج")
-var card6 = new Card("<img src=\"images/Animal/سمكة.jpg\">", "سمكة")
-var card7 = new Card("<img src=\"images/Animal/طئر_طير.jpg\">", "طئر_طير")
-var card8 = new Card("<img src=\"images/Animal/عصفور.png\">", "عصفور")
-var card9 = new Card("<img src=\"images/Animal/فأر.jpg\">", "فأر")
-var card10 = new Card("<img src=\"images/Animal/قِطّ_هِرّ_بَسّ .jpg\">", "قِطّ_هِرّ_بَسّ ")
-var card11 = new Card("<img src=\"images/Animal/كلب.jpg\">", "كلب")
 
-var myCards = [card1,card2,card3,card4,card5,card6,card7,card8,card9,card10,card11];
+var card1 = new Card("<img src=\"images/Animal/بقرة.jpg\">", "بقرة")
+var card2 = new Card("<img src=\"images/Animal/جناح.jpg\">", "جناح")
+var card3 = new Card("<img src=\"images/Animal/حصان.png\">", "حصان")
+var card4 = new Card("<img src=\"images/Animal/حيوان.png\">", "حيوان")
+var card5 = new Card("<img src=\"images/Animal/خنزير.jpg\">", "خنزير")
+var card6 = new Card("<img src=\"images/Animal/دجاج.jpg\">", "دجاج")
+var card7 = new Card("<img src=\"images/Animal/سمكة.jpg\">", "سمكة")
+var card8 = new Card("<img src=\"images/Animal/طئر_طير.jpg\">", "طئر_طير")
+var card9 = new Card("<img src=\"images/Animal/عصفور.png\">", "عصفور")
+var card10 = new Card("<img src=\"images/Animal/فأر.jpg\">", "فأر")
+var card11 = new Card("<img src=\"images/Animal/قِطّ_هِرّ_بَسّ .jpg\">", "قِطّ_هِرّ_بَسّ ")
+var card12 = new Card("<img src=\"images/Animal/كلب.jpg\">", "كلب")
+var card13 = new Card("<img src=\"images/Transportation\">", "Transportation")
+var card14 = new Card("<img src=\"images/Transportation/إطار-العجلة.jpg\">", "إطار-العجلة")
+var card15 = new Card("<img src=\"images/Transportation/تذكرة.jpg\">", "تذكرة")
+var card16 = new Card("<img src=\"images/Transportation/حافلة_ أتوبيس_ باص.jpg\">", "حافلة_ أتوبيس_ باص")
+var card17 = new Card("<img src=\"images/Transportation/دراجة هوائية.png\">", "دراجة هوائية")
+var card18 = new Card("<img src=\"images/Transportation/سفينة.jpg\">", "سفينة")
+var card19 = new Card("<img src=\"images/Transportation/سيارة.jpg\">", "سيارة")
+var card20 = new Card("<img src=\"images/Transportation/شاحنة.jpg\">", "شاحنة")
+var card21 = new Card("<img src=\"images/Transportation/طائرة.jpg\">", "طائرة")
+var card22 = new Card("<img src=\"images/Transportation/قارب.jpg\">", "قارب")
+var card23 = new Card("<img src=\"images/Transportation/قطار.jpg\">", "قطار")
+var card24 = new Card("<img src=\"images/Transportation/محرك.jpg\">", "محرك")
+var card25 = new Card("<img src=\"images/Transportation/نقل.png\">", "نقل")
+var card26 = new Card("<img src=\"images/Transportation/وقود.jpg\">", "وقود")
+
+var myCards = [card1,card2,card3,card4,card5,card6,card7,card8,card9,card10,card11,card12,card13,card14,card15,card16,card17,card18,card19,card20,card21,card22,card23,card24,card25,card26];
 //var myCards = LoadCards("flashcards.txt");
 var cardIndex = 0;
 
