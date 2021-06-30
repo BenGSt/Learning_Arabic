@@ -1,6 +1,3 @@
- // to create this file run
- // echo "$(cat flashcards.js_top ; find images |awk 'BEGIN { FS = "/" } ; NR>1{OFS=","; print  $0, $NF }'|sed 's/\.[[:alpha:]]*$//'| awk '{FS=","; printf "var card" NR-1 " = new Card(\"<img src=\\\""$1"\\\">\", \""$2"\")\n"} END{printf "\nvar myCards = ["; for (i = 1; i <NR-1 ; i++) printf "card"i",";printf "card"NR-1"];\n"}' ; cat flashcards.js_bottom)" > flashcards.js
- 
 function Card(term, definition) {
   this.term = term;
   this.definition = definition;

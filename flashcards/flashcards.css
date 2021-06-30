@@ -27,6 +27,7 @@ p {
   min-width:100%;
   max-width:900px;
   text-align: center;
+  font-size:32px;
 }
 #activeCardButtons {
   min-width: 100%;

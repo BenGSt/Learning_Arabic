@@ -1,0 +1,61 @@
+ // to create this file run
+ // echo "$(cat flashcards.js_top ; find images |awk 'BEGIN { FS = "/" } ; NR>1{OFS=","; print  $0, $NF }'|sed 's/\.[[:alpha:]]*$//'| awk '{FS=","; printf "var card" NR-1 " = new Card(\"<img src=\\\""$1"\\\">\", \""$2"\")\n"} END{printf "\nvar myCards = ["; for (i = 1; i <NR-1 ; i++) printf "card"i",";printf "card"NR-1"];\n"}' ; cat flashcards.js_bottom)" > flashcards.js
+ 
+function Card(term, definition) {
+  this.term = term;
+  this.definition = definition;
+  //this.category = category;
+}
+var newDeck = [];
+var newCard;
+var front = document.getElementById("front");
+var back = document.getElementById("back");
+var flip = document.getElementById("flip");
+var submit = document.getElementById("submit");
+var clearDeck = document.getElementById("clearDeck");
+var formFront, formBack;
+
+function shuffle(array) {
+  for (let i = array.length - 1; i > 0; i--) {
+    let j = Math.floor(Math.random() * (i + 1));
+    [array[i], array[j]] = [array[j], array[i]];
+  }
+}
+
+// $.get('flashcards_info.txt', function(file) {
+
+  // var table = file.split("/n").map(function (row) { return row.split(";"); });
+  // var availableTags = table.map(function (row) { return row[0]; });
+
+
+// console.log(availableTags);
+
+// $(function() {
+  // $("#search").autocomplete({
+    // source: availableTags
+  // });
+// });
+
+// }, 'text');
+
+// function loadCards(file){
+	// var deck = [];
+	//read file
+	// for line in file:
+		// deck.push(Card(line[0],line[1]))
+	// return deck;
+		
+// }
+
+
+
+function slideIn() {
+  $('#importExport').animate({ 'left': '10px' }, 500);
+
+};
+function slideOut() {
+  $('#importExport').animate({ 'left': '-610px' }, 500);
+};
+
+//#to produce following block
+//find images |awk 'BEGIN { FS = "/" } ; NR>1{OFS=","; print  $0, $NF }'|sed 's/\.[[:alpha:]]*$//'| awk '{FS=","; printf "var card" NR-1 " = new Card(\"<img src=\\\""$1"\\\">\", \""$2"\")\n"} END{printf "\nvar myCards = ["; for (i = 1; i <NR-1 ; i++) printf "card"i",";printf "card"NR-1"];\n"}'
