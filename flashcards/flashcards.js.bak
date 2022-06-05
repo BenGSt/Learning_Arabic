@@ -17,8 +17,8 @@ var clearDeck = document.getElementById("clearDeck");
 var formFront, formBack;
 
 function shuffle(array) {
-  for (let i = array.length - 1; i > 0; i--) {
-    let j = Math.floor(Math.random() * (i + 1));
+  for (var i = array.length - 1; i > 0; i--) {
+    var j = Math.floor(Math.random() * (i + 1));
     [array[i], array[j]] = [array[j], array[i]];
   }
 }
@@ -284,7 +284,7 @@ var card220 = new Card("<img src=\"images/Transportation/وقود.jpg\">", "وق
 
 var myCards = [card1,card2,card3,card4,card5,card6,card7,card8,card9,card10,card11,card12,card13,card14,card15,card16,card17,card18,card19,card20,card21,card22,card23,card24,card25,card26,card27,card28,card29,card30,card31,card32,card33,card34,card35,card36,card37,card38,card39,card40,card41,card42,card43,card44,card45,card46,card47,card48,card49,card50,card51,card52,card53,card54,card55,card56,card57,card58,card59,card60,card61,card62,card63,card64,card65,card66,card67,card68,card69,card70,card71,card72,card73,card74,card75,card76,card77,card78,card79,card80,card81,card82,card83,card84,card85,card86,card87,card88,card89,card90,card91,card92,card93,card94,card95,card96,card97,card98,card99,card100,card101,card102,card103,card104,card105,card106,card107,card108,card109,card110,card111,card112,card113,card114,card115,card116,card117,card118,card119,card120,card121,card122,card123,card124,card125,card126,card127,card128,card129,card130,card131,card132,card133,card134,card135,card136,card137,card138,card139,card140,card141,card142,card143,card144,card145,card146,card147,card148,card149,card150,card151,card152,card153,card154,card155,card156,card157,card158,card159,card160,card161,card162,card163,card164,card165,card166,card167,card168,card169,card170,card171,card172,card173,card174,card175,card176,card177,card178,card179,card180,card181,card182,card183,card184,card185,card186,card187,card188,card189,card190,card191,card192,card193,card194,card195,card196,card197,card198,card199,card200,card201,card202,card203,card204,card205,card206,card207,card208,card209,card210,card211,card212,card213,card214,card215,card216,card217,card218,card219,card220];
 var cardIndex = 0;
-
+var shuff_debug = shuffle(myCards)
 
 
 front.innerHTML = myCards[0].term;
@@ -361,7 +361,8 @@ function prevCard() {
 
 }
 function shuffleCards() {
-  shuffle(myCards);
+  var temp = shuffle(myCards);
+  myCards = myCards;
   cardIndex = 0;
 }
 function emptyDeck() {
