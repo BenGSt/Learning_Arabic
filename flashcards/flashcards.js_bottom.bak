@@ -4,13 +4,6 @@ front.innerHTML = myCards[0].term;
 back.innerHTML = myCards[0].definition;
 back.style.visibility = "hidden";
 
-
-function shuffleCards() {
-  shuffle(myCards);
-  cardIndex = 0;
-}
-
-
 function flash() {
   if (front.style.visibility != "hidden") {
     front.style.visibility = "hidden";
